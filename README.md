@@ -1,1 +1,1 @@
-# Emoticam
+StockSense - Inventory Management Application
